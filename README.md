@@ -28,7 +28,8 @@ Autor: Cristian Fernando Rodríguez González
   ![image](https://github.com/CrisRod8/bono-parcial/assets/111186898/a5e823af-e40d-4b66-9c26-5ef7b73efe49)
    
 ## PRUEBAS  
-Desde algun browser, escribimos la direccion: http://localhost:4567/
+Desde algun browser, escribimos la direccion: http://localhost:4567/  
+
   ![image](https://github.com/CrisRod8/bono-parcial/assets/111186898/7ec38113-6cdb-44e0-8546-d8d510298d0e)
    
 ## PRUEBAS
