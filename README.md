@@ -16,9 +16,12 @@ Autor: Cristian Fernando Rodríguez González
    
    Después:
    
+  
+
    ```
-   mvn clean package exec:java -D "exec.mainClass"="org.example.SparkWebServer
+   java -cp "target/classes;target/dependency/*" org.example.SparkWebServer
    ```
+   
 
    
    Debemos recibir la siguiente respuesta:
