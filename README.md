@@ -10,10 +10,7 @@ Autor: Cristian Fernando Rodríguez González
    `mvn clean install`
    
    Después:
-   `java -cp "target/classes:target/dependency/*" org.example.SparkWebServer`
-
-   En Windows:
-   `java -cp "target/classes;target/dependency/*" org.example.SparkWebServer`
+   `mvn clean package exec:java -D "exec.mainClass"="org.example.SparkWebServer`
 
    
    Debemos recibir la siguiente respuesta:
