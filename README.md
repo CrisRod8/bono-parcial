@@ -95,6 +95,7 @@ Docker Desktop dashboard:
 Finalmente, creamos un repositorio en Docker Hub y hacemos push de la imagen:
 
 ![image](https://github.com/CrisRod8/bono-parcial/assets/111186898/320db606-c65e-47d4-bf64-38e79471b18e)  
+![image](https://github.com/CrisRod8/bono-parcial/assets/111186898/f1705908-60dc-4c66-9133-99105c8a54ed)  
 
 En el apartado de Tags del repositorio tenemos:
 
